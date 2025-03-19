@@ -111,6 +111,10 @@ USE_L10N = False
 
 USE_TZ = True
 
+LANGUAGES = [
+    ('ru', 'Russian'),
+]
+
 
 STATIC_URL = '/static/'
 
